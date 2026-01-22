@@ -1,0 +1,26 @@
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Android
+.gradle/
+/local.properties
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# PHP
+*.log
+.htpasswd
+
+# User files
+*.log
